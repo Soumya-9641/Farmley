@@ -74,7 +74,7 @@ const Navbar = () => {
       
           <div className="relative">
             <button onClick={() => setDropdownOpen(!dropdownOpen)} className="focus:outline-none">
-              <FaUserCircle className="text-3xl text-gray-700 hover:text-green-600 cursor-pointer" />
+              <FaUserCircle className="text-3xl mr-15 mt-2 text-gray-700 hover:text-green-600 cursor-pointer" />
             </button>
 
             {/* Dropdown Menu */}
