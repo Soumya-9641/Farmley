@@ -1,0 +1,1310 @@
+[{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c7d"
+  },
+  "name": "Premium Whole Cashews (250g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Delicious and creamy whole cashew nuts",
+  "ingredients": [
+    "Whole Cashew Nuts"
+  ],
+  "price": {
+    "mrp": 450,
+    "offerPrice": 399
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://krishival.com/cdn/shop/files/Premium-Cashews_4609314a-fdb7-4210-9404-b53fc673bfc2.png?v=1694596708"
+  ],
+  "stock": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c7e"
+  },
+  "name": "Roasted Salted Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Crunchy and lightly salted roasted cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 420,
+    "offerPrice": 369
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://krishival.com/cdn/shop/files/KingofCashews_Assorted.png?v=1697086888&width=1024"
+  ],
+  "stock": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.958Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c7f"
+  },
+  "name": "Black Pepper Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Spicy black pepper-coated cashew nuts",
+  "ingredients": [
+    "Cashew Nuts",
+    "Black Pepper",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 430,
+    "offerPrice": 379
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/7/PP/VE/KP/70250620/anandhiya-brand-cashew-nut-product-box-with-vacuum-packing-.png"
+  ],
+  "stock": 75,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.958Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c80"
+  },
+  "name": "Honey Roasted Cashews (250g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Sweet and crunchy honey-roasted cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Honey",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 480,
+    "offerPrice": 429
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/516-rLEnS0L._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 60,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c81"
+  },
+  "name": "Organic Whole Cashews (500g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Handpicked premium quality organic cashews",
+  "ingredients": [
+    "Organic Cashew Nuts"
+  ],
+  "price": {
+    "mrp": 950,
+    "offerPrice": 849
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/81bePIkbVGL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 120,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c82"
+  },
+  "name": "Chili Lime Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Tangy and spicy chili lime cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Chili Powder",
+    "Lime Extract"
+  ],
+  "price": {
+    "mrp": 440,
+    "offerPrice": 389
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71z2t5XqdIL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 70,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.961Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c83"
+  },
+  "name": "Garlic Butter Cashews (250g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Rich and savory garlic butter-flavored cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Garlic",
+    "Butter"
+  ],
+  "price": {
+    "mrp": 460,
+    "offerPrice": 409
+  },
+  "shelfLife": "8 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/12/FU/BF/RA/62129258/w180-cashew-nut-500x500.jpg"
+  ],
+  "stock": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c84"
+  },
+  "name": "BBQ Flavored Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Smoky and flavorful BBQ roasted cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "BBQ Seasoning"
+  ],
+  "price": {
+    "mrp": 470,
+    "offerPrice": 419
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://eatanytime.in/cdn/shop/files/Untitleddesign_2-569975_bbf583ef-aef3-468c-b47e-ba89a4a2ce76-724870.png?v=1716818797&width=1445"
+  ],
+  "stock": 55,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c85"
+  },
+  "name": "Turmeric Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Health-boosting turmeric-coated cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Turmeric",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 430,
+    "offerPrice": 379
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.trishu.co.in/wp-content/uploads/2024/04/Trishu-cashew-pouch-05.png"
+  ],
+  "stock": 65,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02cf7d31e5eb9210c6c86"
+  },
+  "name": "Salt & Vinegar Cashews (200g)",
+  "brand": "Farmley",
+  "category": "Cashew",
+  "description": "Tangy and crispy salt & vinegar cashews",
+  "ingredients": [
+    "Cashew Nuts",
+    "Salt",
+    "Vinegar Powder"
+  ],
+  "price": {
+    "mrp": 450,
+    "offerPrice": 399
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/662f89d39e87b55b6285ad17/bhp_9391-1-1-.jpg"
+  ],
+  "stock": 90,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:03:19.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c88"
+  },
+  "name": "California Almonds (250g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Premium quality California almonds",
+  "ingredients": [
+    "Whole Almonds"
+  ],
+  "price": {
+    "mrp": 499,
+    "offerPrice": 429
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61-HeXX496L._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c89"
+  },
+  "name": "Roasted Salted Almonds (200g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Crunchy roasted almonds with a hint of salt",
+  "ingredients": [
+    "Almonds",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 520,
+    "offerPrice": 449
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogbUbP4nOl92ogKqdYa9A1mBc64PBOlB8cQ&s"
+  ],
+  "stock": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8a"
+  },
+  "name": "Honey Roasted Almonds (250g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Delicious honey-coated roasted almonds",
+  "ingredients": [
+    "Almonds",
+    "Honey"
+  ],
+  "price": {
+    "mrp": 550,
+    "offerPrice": 479
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.jiomart.com/images/product/original/rvsvcjvjvk/organic-purify-100-natural-california-almonds-value-pack-pouch-1kg-american-badam-product-images-orvsvcjvjvk-p600254952-0-202304071007.jpg?im=Resize=(1000,1000)"
+  ],
+  "stock": 90,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8b"
+  },
+  "name": "Chocolate Coated Almonds (200g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Crunchy almonds dipped in rich chocolate",
+  "ingredients": [
+    "Almonds",
+    "Dark Chocolate"
+  ],
+  "price": {
+    "mrp": 600,
+    "offerPrice": 529
+  },
+  "shelfLife": "8 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim3.flixcart.com/image/850/1000/l3vxbbk0/nut-dry-fruit/t/t/s/1000-almonds-badam-1kg-pack-of-1-1-pouch-groshaat-original-imagewzdzbjwmhau.jpeg?q=90&crop=false"
+  ],
+  "stock": 70,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8c"
+  },
+  "name": "Organic Whole Almonds (500g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "100% natural and organic almonds",
+  "ingredients": [
+    "Organic Almonds"
+  ],
+  "price": {
+    "mrp": 899,
+    "offerPrice": 799
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71gSUy+youL.jpg"
+  ],
+  "stock": 120,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8d"
+  },
+  "name": "BBQ Flavored Almonds (200g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Smoky BBQ seasoned roasted almonds",
+  "ingredients": [
+    "Almonds",
+    "BBQ Seasoning"
+  ],
+  "price": {
+    "mrp": 570,
+    "offerPrice": 499
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.bigbasket.com/media/uploads/p/l/40280360_2-farmley-premium-california-almonds-rich-in-protein-unpolished-no-adulteration.jpg"
+  ],
+  "stock": 65,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8e"
+  },
+  "name": "Almond Butter (250g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Smooth and creamy almond butter",
+  "ingredients": [
+    "Almonds"
+  ],
+  "price": {
+    "mrp": 750,
+    "offerPrice": 699
+  },
+  "shelfLife": "6 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://elimento.com/cdn/shop/products/10601_Almondsorganic_front_972x.jpg?v=1583189713"
+  ],
+  "stock": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c8f"
+  },
+  "name": "Turmeric Almonds (200g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Nutrient-rich almonds infused with turmeric",
+  "ingredients": [
+    "Almonds",
+    "Turmeric",
+    "Salt"
+  ],
+  "price": {
+    "mrp": 590,
+    "offerPrice": 519
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQf55rokhKTIasbFYgpisYAKS8nrI06M6i2uy3BR3JUG3-wiN1qpQWASh5nxuXqVm_d4&usqp=CAU"
+  ],
+  "stock": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c90"
+  },
+  "name": "Cinnamon Almonds (250g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Sweet and aromatic cinnamon-flavored almonds",
+  "ingredients": [
+    "Almonds",
+    "Cinnamon",
+    "Sugar"
+  ],
+  "price": {
+    "mrp": 580,
+    "offerPrice": 509
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTqS4xP6btsC-ElEAxaErzxboS01j-FQRD_vBESBal8H2yy3VeKW-j1vYGQ2F2ZG3sS0&usqp=CAU"
+  ],
+  "stock": 60,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d65d31e5eb9210c6c91"
+  },
+  "name": "Salt & Vinegar Almonds (200g)",
+  "brand": "Farmley",
+  "category": "Almonds",
+  "description": "Crispy almonds with a tangy salt & vinegar taste",
+  "ingredients": [
+    "Almonds",
+    "Salt",
+    "Vinegar Powder"
+  ],
+  "price": {
+    "mrp": 600,
+    "offerPrice": 529
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEQ37rS6oPMqHwSJ2q6NE3sXL9M9PnQ8pqG_Ykux5BDETD8yxu2SeDHG0NbOTmQ5Lu1A&usqp=CAU"
+  ],
+  "stock": 75,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:09.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c93"
+  },
+  "name": "Medjool Dates (500g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Naturally sweet and chewy Medjool dates",
+  "ingredients": [
+    "Medjool Dates"
+  ],
+  "price": {
+    "mrp": 699,
+    "offerPrice": 599
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61CZbE5CLeL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 90,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c94"
+  },
+  "name": "Ajwa Dates (400g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Rich and soft Ajwa dates sourced from Saudi Arabia",
+  "ingredients": [
+    "Ajwa Dates"
+  ],
+  "price": {
+    "mrp": 899,
+    "offerPrice": 799
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://haribansha.com/wp-content/uploads/2025/01/DATE-CROWN-FARD-KHEJUR-500gm.webp"
+  ],
+  "stock": 75,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c95"
+  },
+  "name": "Omani Dates (500g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Juicy and soft dates directly from Oman",
+  "ingredients": [
+    "Omani Dates"
+  ],
+  "price": {
+    "mrp": 499,
+    "offerPrice": 429
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim3.flixcart.com/image/850/1000/xif0q/nut-dry-fruit/8/f/a/500-dates-with-seeds-pin-khajur-vaccum-pack-dates-pind-khajoor-original-imagh2wymgpfmsnz.jpeg?q=20&crop=false"
+  ],
+  "stock": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c96"
+  },
+  "name": "Khudri Dates (400g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Dark brown and mildly sweet Khudri dates",
+  "ingredients": [
+    "Khudri Dates"
+  ],
+  "price": {
+    "mrp": 449,
+    "offerPrice": 389
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/1/LR/JP/EB/145538355/8908005072829-1-500x500.jpg"
+  ],
+  "stock": 85,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c97"
+  },
+  "name": "Stuffed Dates with Almonds (250g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Premium dates stuffed with roasted almonds",
+  "ingredients": [
+    "Dates",
+    "Almonds"
+  ],
+  "price": {
+    "mrp": 599,
+    "offerPrice": 549
+  },
+  "shelfLife": "6 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim2.flixcart.com/image/850/1000/xif0q/nut-dry-fruit/u/r/c/10-badash-dates-khajur-sweet-dates-pin-khajur-10kg-1-pouch-original-imagghdkzkxurkkt.jpeg?q=90&crop=false"
+  ],
+  "stock": 60,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c98"
+  },
+  "name": "Seedless Dates (500g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Soft, seedless dates for convenient snacking",
+  "ingredients": [
+    "Seedless Dates"
+  ],
+  "price": {
+    "mrp": 399,
+    "offerPrice": 349
+  },
+  "shelfLife": "8 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2021/1/NN/FU/VM/43987978/sunheri-packaged-wet-dates-500x500.jpg"
+  ],
+  "stock": 70,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c99"
+  },
+  "name": "Dates with Coconut (250g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Delicious dates coated with shredded coconut",
+  "ingredients": [
+    "Dates",
+    "Coconut"
+  ],
+  "price": {
+    "mrp": 450,
+    "offerPrice": 399
+  },
+  "shelfLife": "7 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim2.flixcart.com/image/850/1000/khxqt8w0-0/nut-dry-fruit/c/d/v/500-soft-premium-dates-500-gm-box-pramix-original-imafxuc4bkzbak45.jpeg?q=90&crop=false"
+  ],
+  "stock": 55,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c9a"
+  },
+  "name": "Dates & Nuts Energy Bites (300g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Nutritious energy bites made with dates & dry fruits",
+  "ingredients": [
+    "Dates",
+    "Nuts",
+    "Seeds"
+  ],
+  "price": {
+    "mrp": 599,
+    "offerPrice": 529
+  },
+  "shelfLife": "6 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOSVqkjhTIp0ja89arj3u2jf7xd5zQzaM0g&s"
+  ],
+  "stock": 65,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c9b"
+  },
+  "name": "Dry Dates (Chuara) (400g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Traditional dried dates known as chuara",
+  "ingredients": [
+    "Dry Dates"
+  ],
+  "price": {
+    "mrp": 349,
+    "offerPrice": 289
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim2.flixcart.com/image/850/1000/xif0q/nut-dry-fruit/t/p/w/400-black-khajoor-dry-black-dates-sukha-khajoor-khajur-dry-fruit-original-imaggrf3mxhpvtzf.jpeg?q=20&crop=false"
+  ],
+  "stock": 95,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02d96d31e5eb9210c6c9c"
+  },
+  "name": "Black Dates (Kalmi) (400g)",
+  "brand": "Farmley",
+  "category": "Dates",
+  "description": "Naturally sweet black Kalmi dates",
+  "ingredients": [
+    "Kalmi Dates"
+  ],
+  "price": {
+    "mrp": 479,
+    "offerPrice": 429
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://images.meesho.com/images/products/448724100/dyjry_512.webp"
+  ],
+  "stock": 85,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:05:58.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6c9e"
+  },
+  "name": "Premium Green Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Naturally sweet and seedless green raisins",
+  "ingredients": [
+    "Green Raisins"
+  ],
+  "price": {
+    "mrp": 349,
+    "offerPrice": 299
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4O_Od4CLGI5csoanciOZjUmbVzEdCQwqxA&s"
+  ],
+  "stock": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6c9f"
+  },
+  "name": "Golden Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Golden colored sweet raisins for snacking and baking",
+  "ingredients": [
+    "Golden Raisins"
+  ],
+  "price": {
+    "mrp": 399,
+    "offerPrice": 349
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.sindinga9.com/product-images/IMG-20211231-WA0013.jpg/119175000015969874/700x700"
+  ],
+  "stock": 90,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca0"
+  },
+  "name": "Black Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Juicy black raisins, rich in antioxidants",
+  "ingredients": [
+    "Black Raisins"
+  ],
+  "price": {
+    "mrp": 429,
+    "offerPrice": 379
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim2.flixcart.com/image/850/1000/khp664w0/nut-dry-fruit/6/j/h/100-premium-dried-black-raisins-black-kishmish-with-seed-100-gm-original-imafxncwyzthqhgd.jpeg?q=90&crop=false"
+  ],
+  "stock": 95,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca1"
+  },
+  "name": "Afghani Long Raisins (250g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Naturally dried long raisins from Afghanistan",
+  "ingredients": [
+    "Afghani Raisins"
+  ],
+  "price": {
+    "mrp": 299,
+    "offerPrice": 249
+  },
+  "shelfLife": "9 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://www.sindinga9.com/product-images/IMG-20211231-WA0013.jpg/119175000015969874/700x700"
+  ],
+  "stock": 60,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca2"
+  },
+  "name": "Seedless Brown Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Brown raisins with no seeds, perfect for cooking",
+  "ingredients": [
+    "Brown Raisins"
+  ],
+  "price": {
+    "mrp": 379,
+    "offerPrice": 329
+  },
+  "shelfLife": "11 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61RphN6UaxL._AC_UF1000,1000_QL80_.jpghttps://m.media-amazon.com/images/I/71Bh1hHMPbL._SX679_.jpg"
+  ],
+  "stock": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca3"
+  },
+  "name": "Organic Green Raisins (400g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "100% organic and natural green raisins",
+  "ingredients": [
+    "Organic Green Raisins"
+  ],
+  "price": {
+    "mrp": 399,
+    "offerPrice": 359
+  },
+  "shelfLife": "8 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://jammunuts.com/wp-content/uploads/2024/10/2-1.jpg"
+  ],
+  "stock": 70,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca4"
+  },
+  "name": "Sun-Dried Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Naturally sun-dried raisins, rich in nutrients",
+  "ingredients": [
+    "Sun-Dried Raisins"
+  ],
+  "price": {
+    "mrp": 359,
+    "offerPrice": 309
+  },
+  "shelfLife": "10 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/10b02b2c949a4469a03b4dc091ed6ffd.jpg"
+  ],
+  "stock": 110,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca5"
+  },
+  "name": "Premium Raisin Mix (400g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "A mix of golden, black, and green raisins",
+  "ingredients": [
+    "Mixed Raisins"
+  ],
+  "price": {
+    "mrp": 449,
+    "offerPrice": 389
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71pIXlHyfiL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "stock": 75,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca6"
+  },
+  "name": "Raisin & Nut Trail Mix (250g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Healthy snack mix of raisins and premium nuts",
+  "ingredients": [
+    "Raisins",
+    "Almonds",
+    "Cashews"
+  ],
+  "price": {
+    "mrp": 499,
+    "offerPrice": 429
+  },
+  "shelfLife": "6 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim3.flixcart.com/image/850/1000/xif0q/nut-dry-fruit/q/v/r/250-black-raisins-seedless-250g-dried-kali-kishmish-without-original-imagquvsere3jbzb.jpeg?q=20&crop=false"
+  ],
+  "stock": 85,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f02e05d31e5eb9210c6ca7"
+  },
+  "name": "Kismis Indian Raisins (500g)",
+  "brand": "Farmley",
+  "category": "Raisins",
+  "description": "Indian variety raisins, sweet and chewy",
+  "ingredients": [
+    "Kismis"
+  ],
+  "price": {
+    "mrp": 349,
+    "offerPrice": 299
+  },
+  "shelfLife": "12 Months",
+  "processedBy": {
+    "company": "Connedit Business Solutions Pvt. Ltd.",
+    "address": "Indore, Madhya Pradesh"
+  },
+  "images": [
+    "https://rukminim2.flixcart.com/image/750/900/xif0q/nut-dry-fruit/b/k/z/250-black-raisins-seedless-dry-grapes-kali-kishmish-dry-fruits-original-imagzrmbytfhvtzs.jpeg?q=20&crop=false"
+  ],
+  "stock": 105,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T19:07:49.891Z"
+  }
+}]

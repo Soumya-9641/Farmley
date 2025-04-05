@@ -1,0 +1,29 @@
+# Node modules
+**/node_modules/
+
+# Env files
+**/.env
+**/.env.*  # if you use .env.development, .env.production, etc.
+
+# Logs
+**/logs
+**/*.log
+
+# Build output
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sw?
+
+# Optional: coverage or test output
+**/coverage/
+**/.nyc_output/
